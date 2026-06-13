@@ -336,11 +336,11 @@ Open To:
 
 <div align="center">
 
-<a href="mailto:your-email@gmail.com">
+<a href="karanje8765@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="[https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/karan-kumar-a5684637b?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -348,7 +348,7 @@ Open To:
 <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://your-portfolio-link.com">
+<a href="[https://your-portfolio-link.com](https://karan005-kr.github.io/MY_PORTFOLIO/)">
 <img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
