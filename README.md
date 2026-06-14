@@ -13,15 +13,15 @@
 
 <br/>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://karan005-kr.github.io/MY_PORTFOLIO/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/karan-kumar-a5684637b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="karanje8765@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -59,25 +59,25 @@ My primary goal is to become a Data Scientist by building strong foundations in 
 ### Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,html,css" />
 </p>
 
 ### Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Data Science & AI
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn" />
 </p>
 
 ---
@@ -86,11 +86,11 @@ My primary goal is to become a Data Scientist by building strong foundations in 
 
 | Domain             | Proficiency  | Details                                      |
 | ------------------ | ------------ | -------------------------------------------- |
-| Machine Learning   | Intermediate | Classification, Regression, Model Evaluation |
+| Machine Learning   | Learning     | Classification, Regression, Model Evaluation |
 | Data Science       | Intermediate | EDA, Feature Engineering                     |
 | Data Visualization | Intermediate | Matplotlib, Seaborn                          |
 | SQL Analytics      | Intermediate | Queries & Reporting                          |
-| Python             | Advanced     | Pandas, NumPy, Scikit-Learn                  |
+| Python             | Intermediate | Pandas, NumPy, Scikit-Learn                  |
 | Deep Learning      | Learning     | TensorFlow & Neural Networks                 |
 
 ---
