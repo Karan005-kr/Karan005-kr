@@ -1,4 +1,5 @@
-# <div align="center">
+````markdown
+<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Karan%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
@@ -6,10 +7,10 @@
 
 <br/>
 
-![BTech](https://img.shields.io/badge/B.Tech-CSE\(AI%20%26%20ML\)-7C3AED?style=for-the-badge)
-![College](https://img.shields.io/badge/GIET-Gateway%20Institute-4F46E5?style=for-the-badge)
+![BTech](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-7C3AED?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Delhi-India-A855F7?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Focus-Data%20Science-6366F1?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Data%20Science-6366F1?style=for-the-badge)
+![Intern](https://img.shields.io/badge/Intern-DecodeLabs%20%7C%20InternPe-4F46E5?style=for-the-badge)
 
 <br/>
 
@@ -17,11 +18,11 @@
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/karan-kumar-a5684637b?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<a href="https://www.linkedin.com/in/karan-kumar-a5684637b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="karanje8765@gmail.com">
+<a href="mailto:karanje8765@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -31,8 +32,8 @@
 
 <br/><br/>
 
-![](https://komarev.com/ghpvc/?username=Karan005-kr\&style=for-the-badge\&color=7C3AED)
-![](https://img.shields.io/github/followers/Karan005-kr?style=for-the-badge\&color=4F46E5)
+<img src="https://komarev.com/ghpvc/?username=Karan005-kr&style=for-the-badge&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/Karan005-kr?style=for-the-badge&color=4F46E5"/>
 
 </div>
 
@@ -40,120 +41,175 @@
 
 # About Me
 
-I am a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at Gateway Institute of Engineering and Technology.
+I am a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
 
-My primary goal is to become a Data Scientist by building strong foundations in Machine Learning, Data Analytics, Artificial Intelligence, and Software Development. I enjoy working on real-world projects, internships, and open-source contributions that create practical impact.
+My primary goal is to become a Data Scientist by building strong foundations in Machine Learning, Data Analytics, Artificial Intelligence, and Software Development. I enjoy working on real-world projects, internships, and practical AI solutions.
 
-### Open To
+Currently, I am gaining hands-on experience through internships at **DecodeLabs** and **InternPe**, where I work on Machine Learning, Data Science, Data Analysis, and AI-based projects.
 
-* Data Science Internships
-* Machine Learning Projects
-* AI Research Opportunities
-* Open Source Contributions
-* Hackathons & Competitions
+---
+
+# Open To
+
+- Data Science Internships
+- Machine Learning Projects
+- AI/ML Opportunities
+- Open Source Contributions
+- Hackathons & Competitions
+- Beginner-Friendly Research Projects
 
 ---
 
 # Tech Stack
 
-### Languages
+## Languages
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,c,html,css" />
-</p>
 
-### Frontend
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+## Data Science & Machine Learning
 
-### Backend & Databases
+<div align="center">
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow" />
+
+</div>
+
+## Visualization & Analytics
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-Dashboarding-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</div>
+
+## Web & Deployment
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flask,html,css,github,vscode" />
+
+</div>
+
+## Databases
+
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mysql" />
-</p>
 
-### Data Science & AI
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,seaborn" />
-</p>
+</div>
 
 ---
 
 # AI / ML Expertise
 
-| Domain             | Proficiency  | Details                                      |
-| ------------------ | ------------ | -------------------------------------------- |
-| Machine Learning   | Learning     | Classification, Regression, Model Evaluation |
-| Data Science       | Intermediate | EDA, Feature Engineering                     |
-| Data Visualization | Intermediate | Matplotlib, Seaborn                          |
-| SQL Analytics      | Intermediate | Queries & Reporting                          |
-| Python             | Intermediate | Pandas, NumPy, Scikit-Learn                  |
-| Deep Learning      | Learning     | TensorFlow & Neural Networks                 |
+| Domain | Level | Details |
+|---|---|---|
+| Python | Intermediate | NumPy, Pandas, Functions, OOP Basics |
+| Data Science | Intermediate | EDA, Data Cleaning, Feature Engineering |
+| Machine Learning | Learning | Regression, Classification, Clustering |
+| Data Visualization | Intermediate | Matplotlib, Seaborn, Tableau |
+| SQL Analytics | Basic | Queries, Filtering, Reporting |
+| Deep Learning | Learning | TensorFlow, Neural Networks |
+| Web Apps | Basic to Intermediate | Flask, Streamlit, HTML, CSS |
 
 ---
 
 # Featured Projects
 
 <details>
-<summary><b>Credit Card Fraud Detection</b></summary>
+<summary><b>Customer Segmentation Project</b></summary>
 
-| Aspect      | Details                                                    |
-| ----------- | ---------------------------------------------------------- |
-| Stack       | Python, Pandas, NumPy, Scikit-Learn                        |
-| Scale       | Financial Dataset                                          |
-| Performance | Classification Model                                       |
-| Impact      | Fraud Detection                                            |
-| Repository  | https://github.com/Karan005-kr/credit-card-fraud-detection |
+| Aspect | Details |
+|---|---|
+| Stack | Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
+| Domain | Data Science, Machine Learning |
+| Algorithm | Clustering |
+| Focus | Customer Segmentation & Persona Analysis |
+| Repository | https://github.com/Karan005-kr/Customer-Segmentation-Project |
 
-Built a machine learning system to detect fraudulent transactions using data preprocessing, feature engineering, and classification algorithms.
-
-</details>
-
-<details>
-<summary><b>Diabetes Prediction System</b></summary>
-
-| Aspect      | Details                                            |
-| ----------- | -------------------------------------------------- |
-| Stack       | Python, Pandas, Scikit-Learn                       |
-| Scale       | Healthcare Dataset                                 |
-| Performance | Predictive Analytics                               |
-| Impact      | Disease Risk Prediction                            |
-| Repository  | https://github.com/Karan005-kr/internpe-internship |
-
-Developed a machine learning model capable of predicting diabetes risk using patient health data.
+Performed customer segmentation using clustering techniques. The project includes data preprocessing, model selection, PCA analysis, customer personas, and a complete project report.
 
 </details>
 
 <details>
-<summary><b>Gender Pay Equality Analysis</b></summary>
+<summary><b>Karnexa AI - Car Price Prediction</b></summary>
 
-| Aspect      | Details              |
-| ----------- | -------------------- |
-| Stack       | Excel, Data Analysis |
-| Scale       | Employee Dataset     |
-| Performance | Analytical Reporting |
-| Impact      | Workplace Insights   |
-| Repository  | Add Repository Link  |
+| Aspect | Details |
+|---|---|
+| Stack | Python, Scikit-Learn, Pandas, NumPy, Flask, HTML, CSS, Bootstrap |
+| Domain | Machine Learning |
+| Model Type | Regression |
+| Focus | Car Resale Price Prediction |
+| Repository | https://lnkd.in/gkKR4pCT |
 
-Analyzed workforce compensation data and identified discrimination patterns using analytical techniques.
+Built an AI-powered car price prediction web app that predicts resale value based on company, model, year, fuel type, and kilometers driven.
+
+</details>
+
+<details>
+<summary><b>IPL Win Predictor</b></summary>
+
+| Aspect | Details |
+|---|---|
+| Stack | Python, Pandas, Scikit-Learn, Streamlit |
+| Domain | Sports Analytics |
+| Model Type | Classification |
+| Focus | IPL Match Winning Probability |
+| Repository | Add Repository Link |
+
+Developed a machine learning web app that predicts IPL team winning probability using match context and historical IPL data.
+
+</details>
+
+<details>
+<summary><b>Breast Cancer Prediction App</b></summary>
+
+| Aspect | Details |
+|---|---|
+| Stack | Python, TensorFlow, Keras, Scikit-Learn, Streamlit |
+| Domain | Healthcare AI |
+| Model Type | Neural Network |
+| Focus | Breast Cancer Diagnosis Prediction |
+| Repository | https://github.com/Karan005-kr/Breast-cancer |
+
+Created a deep learning based prediction app using healthcare data to classify breast cancer cases as benign or malignant.
+
+</details>
+
+<details>
+<summary><b>Netflix Data Analysis</b></summary>
+
+| Aspect | Details |
+|---|---|
+| Stack | Python, Pandas, NumPy, Matplotlib, Seaborn |
+| Domain | Data Analysis |
+| Focus | Exploratory Data Analysis |
+| Repository | Add Repository Link |
+
+Analyzed Netflix dataset to find insights related to content type, release trends, categories, countries, and platform growth.
 
 </details>
 
 <details>
 <summary><b>Personal Portfolio Website</b></summary>
 
-| Aspect      | Details               |
-| ----------- | --------------------- |
-| Stack       | HTML, CSS, JavaScript |
-| Scale       | Personal Branding     |
-| Performance | Responsive Design     |
-| Impact      | Professional Presence |
-| Repository  | Add Repository Link   |
+| Aspect | Details |
+|---|---|
+| Stack | HTML, CSS, JavaScript |
+| Domain | Personal Branding |
+| Focus | Portfolio Website |
+| Live | https://karan005-kr.github.io/MY_PORTFOLIO/ |
+| Repository | Add Repository Link |
 
-Created a personal portfolio showcasing projects, skills, certifications, and achievements.
+Created a personal portfolio website to showcase projects, skills, experience, and career journey.
 
 </details>
 
@@ -165,56 +221,52 @@ Created a personal portfolio showcasing projects, skills, certifications, and ac
 
 **2026**
 
-* Built machine learning models using Python
-* Performed data cleaning and preprocessing
-* Worked on classification and prediction tasks
-* Improved understanding of real-world AI workflows
+- Built machine learning projects using Python
+- Worked on customer segmentation using clustering
+- Performed data cleaning and preprocessing
+- Created data visualizations and reports
+- Improved understanding of real-world AI workflows
 
-**Skills:** Python • Pandas • NumPy • Machine Learning • Data Science
+**Skills:** Python • Pandas • NumPy • Scikit-Learn • Machine Learning • Data Science
 
 ---
 
-## Data Science Intern | InternPe
+## Data Science & Analytics Intern | InternPe
 
 **2026**
 
-* Developed predictive analytics projects
-* Conducted exploratory data analysis
-* Created data visualizations and reports
-* Implemented machine learning algorithms
+- Developed predictive analytics projects
+- Built machine learning web applications
+- Worked on IPL prediction and healthcare prediction projects
+- Conducted exploratory data analysis
+- Created data visualizations and reports
 
-**Skills:** Python • Data Analysis • EDA • Machine Learning
+**Skills:** Python • Data Analysis • EDA • Machine Learning • Streamlit • TensorFlow
 
 ---
 
 # Achievements
 
-| Recognition           | Details                                        |
-| --------------------- | ---------------------------------------------- |
-| DecodeLabs Internship | Successfully completed Data Science Internship |
-| InternPe Internship   | Completed Machine Learning Projects            |
-| Portfolio Development | Built Professional Developer Portfolio         |
-| AI & ML Student       | Pursuing AI & ML Specialization                |
+| Achievement | Details |
+|---|---|
+| DecodeLabs Internship | Worked on Data Science and Machine Learning projects |
+| InternPe Internship | Built real-world ML and analytics projects |
+| Portfolio Development | Created personal developer portfolio |
+| Tableau Dashboard | Built interactive dashboard for downtime analysis |
+| GitHub Projects | Published multiple Data Science and ML projects |
 
 ---
 
-# Certifications
+# Certifications & Learning
 
-### DecodeLabs
+<div align="center">
 
-![DecodeLabs](https://img.shields.io/badge/DecodeLabs-Data%20Science%20Internship-A855F7?style=for-the-badge)
+<img src="https://img.shields.io/badge/DecodeLabs-Data%20Science%20Internship-A855F7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/InternPe-Data%20Science%20%26%20Analytics-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Coursera-Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-Dashboarding-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-### InternPe
-
-![InternPe](https://img.shields.io/badge/InternPe-Data%20Science%20Internship-4F46E5?style=for-the-badge)
-
-### NPTEL
-
-![NPTEL](https://img.shields.io/badge/NPTEL-Certified-6366F1?style=for-the-badge)
-
-### Cisco
-
-![Cisco](https://img.shields.io/badge/Cisco-Certified-1BA0D7?style=for-the-badge)
+</div>
 
 ---
 
@@ -222,11 +274,17 @@ Created a personal portfolio showcasing projects, skills, certifications, and ac
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge\&logo=leetcode)](YOUR_LEETCODE)
+<a href="YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge\&logo=geeksforgeeks)](YOUR_GFG)
+<a href="YOUR_GFG">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge\&logo=hackerrank)](YOUR_HACKERRANK)
+<a href="YOUR_HACKERRANK">
+<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
 
 </div>
 
@@ -236,9 +294,13 @@ Created a personal portfolio showcasing projects, skills, certifications, and ac
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karan005-kr&show_icons=true&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karan005-kr&show_icons=true&theme=midnight-purple&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan005-kr&layout=compact&theme=midnight-purple"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan005-kr&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Karan005-kr&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
@@ -248,7 +310,7 @@ Created a personal portfolio showcasing projects, skills, certifications, and ac
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Karan005-kr&theme=algolia&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Karan005-kr&theme=algolia&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -258,7 +320,7 @@ Created a personal portfolio showcasing projects, skills, certifications, and ac
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan005-kr&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan005-kr&theme=react-dark&hide_border=true"/>
 
 </div>
 
@@ -272,49 +334,59 @@ Learning:
   - Deep Learning
   - SQL
   - Data Structures & Algorithms
+  - Power BI
+  - Tableau
 
 Building:
-  - AI Projects
-  - Data Science Portfolio
+  - Data Science Projects
+  - Machine Learning Web Apps
+  - AI Portfolio
   - Open Source Projects
 
 Exploring:
   - Generative AI
   - MLOps
   - Cloud Computing
+  - Real World AI Applications
 
-Open To:
-  - Data Science Internships
-  - AI/ML Opportunities
-  - Hackathons
-```
+Career Goal:
+  - Data Scientist
+  - AI/ML Engineer
+````
 
 ---
 
-# Connect
+# Connect With Me
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail"/>
+<a href="mailto:karanje8765@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/karan-kumar-a5684637b">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Karan005-kr">
 <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://karan005-kr.github.io/MY_PORTFOLIO/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
 
-### "Turning Data Into Decisions."
+### Data Science • Machine Learning • Artificial Intelligence
+
+### Turning Data Into Decisions, Models Into Solutions.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 
 </div>
+```
