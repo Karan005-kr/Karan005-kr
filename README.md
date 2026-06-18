@@ -1,379 +1,357 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Karan%20Kumar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:030014,45:6D28D9,100:000000&text=Karan%20Kumar&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20ML%20Student%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI+%26+ML+Student;Aspiring+Data+Scientist;Data+Science+Intern;Machine+Learning+Enthusiast;Building+Real+World+AI+Projects"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=950&lines=Building+Data+Science+%26+AI+Projects;Machine+Learning+%7C+Deep+Learning+%7C+Analytics;Turning+Data+Into+Actionable+Insights;Open+to+Data+Science+Opportunities" alt="Typing SVG" />
 
-<br/>
-
-![BTech](https://img.shields.io/badge/B.Tech-CSE%20(AI%20%26%20ML)-7C3AED?style=for-the-badge)
-![Location](https://img.shields.io/badge/Delhi-India-A855F7?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-Data%20Science-6366F1?style=for-the-badge)
-![Intern](https://img.shields.io/badge/Intern-DecodeLabs%20%7C%20InternPe-4F46E5?style=for-the-badge)
-
-<br/>
-
-<a href="https://karan005-kr.github.io/MY_PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/karan-kumar-a5684637b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:karanje8765@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://github.com/Karan005-kr">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Karan005--kr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<img src="https://img.shields.io/badge/Location-Delhi,%20India-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Role-Aspiring%20Data%20Scientist-A855F7?style=for-the-badge&logo=python&logoColor=white" alt="Role" />
+<img src="https://komarev.com/ghpvc/?username=Karan005-kr&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
+
+---
+
+## About Me
+
+<table>
+<tr>
+<td width="62%">
+
+Hi, I am **Karan Kumar**, an aspiring **Data Scientist** and **AI & Machine Learning student** from **Delhi, India**.
+
+I am currently pursuing **B.Tech in Computer Science Engineering with Artificial Intelligence & Machine Learning** at **Gateway Institute of Engineering and Technology (GIET)**.
+
+My career goal is to build strong expertise in **Machine Learning, Artificial Intelligence, Data Analytics, Deep Learning, and Generative AI**, while creating real-world projects that solve practical problems.
+
+</td>
+<td width="38%">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan005-kr&layout=compact&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## Experience
+
+<table>
+<tr>
+<td width="50%">
+
+### Data Science Intern  
+**DecodeLabs**
+
+- Working on practical Data Science workflows  
+- Applying Python, analytics, and ML concepts  
+- Building hands-on experience with real-world data  
+
+</td>
+<td width="50%">
+
+### Data Science & Analytics Intern  
+**InternPe**
+
+- Exploring data analysis and reporting  
+- Strengthening EDA and visualization skills  
+- Learning industry-oriented analytics practices  
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Programming & Databases
+
+<img src="https://skillicons.dev/icons?i=python,c,mysql" alt="Programming Skills" />
+
+<br>
+
+<img src="https://img.shields.io/badge/SQL-Basic-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+### Data Science & Analytics
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=python&logoColor=A855F7" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/Seaborn-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
+
+### Machine Learning & AI
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Machine Learning" />
+<img src="https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=openai&logoColor=A855F7" alt="Deep Learning" />
+
+### Web Apps & Tools
+
+<img src="https://skillicons.dev/icons?i=flask,html,css,git,github" alt="Web and Tools" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+<img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+
+</div>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### Customer Segmentation Project
+
+**Machine Learning | Clustering | PCA | Visualization**
+
+- Customer clustering using Machine Learning  
+- PCA analysis for dimensionality reduction  
+- Persona creation for business understanding  
+- Data visualization and full report generation  
+
+<a href="https://github.com/Karan005-kr?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
 </a>
 
-<br/><br/>
+</td>
+<td width="50%">
 
-<img src="https://komarev.com/ghpvc/?username=Karan005-kr&style=for-the-badge&color=7C3AED"/>
-<img src="https://img.shields.io/github/followers/Karan005-kr?style=for-the-badge&color=4F46E5"/>
+### Karnexa AI
 
-</div>
+**Car Price Prediction | Flask | Regression**
 
----
+- Flask-based Machine Learning web app  
+- Regression model for resale price prediction  
+- End-to-end ML model integration  
+- Practical automotive pricing use case  
 
-# About Me
-
-I am a B.Tech Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning.
-
-My primary goal is to become a Data Scientist by building strong foundations in Machine Learning, Data Analytics, Artificial Intelligence, and Software Development. I enjoy working on real-world projects, internships, and practical AI solutions.
-
-Currently, I am gaining hands-on experience through internships at **DecodeLabs** and **InternPe**, where I work on Machine Learning, Data Science, Data Analysis, and AI-based projects.
-
----
-
-# Open To
-
-- Data Science Internships
-- Machine Learning Projects
-- AI/ML Opportunities
-- Open Source Contributions
-- Hackathons & Competitions
-- Beginner-Friendly Research Projects
-
----
-
-# Tech Stack
-
-## Languages
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,html,css" />
-
-</div>
-
-## Data Science & Machine Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,tensorflow" />
-
-</div>
-
-## Visualization & Analytics
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Matplotlib-Data%20Visualization-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-Statistical%20Visualization-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-Dashboarding-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-</div>
-
-## Web & Deployment
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=flask,html,css,github,vscode" />
-
-</div>
-
-## Databases
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-</div>
-
----
-
-# AI / ML Expertise
-
-| Domain | Level | Details |
-|---|---|---|
-| Python | Intermediate | NumPy, Pandas, Functions, OOP Basics |
-| Data Science | Intermediate | EDA, Data Cleaning, Feature Engineering |
-| Machine Learning | Learning | Regression, Classification, Clustering |
-| Data Visualization | Intermediate | Matplotlib, Seaborn, Tableau |
-| SQL Analytics | Basic | Queries, Filtering, Reporting |
-| Deep Learning | Learning | TensorFlow, Neural Networks |
-| Web Apps | Basic to Intermediate | Flask, Streamlit, HTML, CSS |
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>Customer Segmentation Project</b></summary>
-
-| Aspect | Details |
-|---|---|
-| Stack | Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
-| Domain | Data Science, Machine Learning |
-| Algorithm | Clustering |
-| Focus | Customer Segmentation & Persona Analysis |
-| Repository | https://github.com/Karan005-kr/Customer-Segmentation-Project |
-
-Performed customer segmentation using clustering techniques. The project includes data preprocessing, model selection, PCA analysis, customer personas, and a complete project report.
-
-</details>
-
-<details>
-<summary><b>Karnexa AI - Car Price Prediction</b></summary>
-
-| Aspect | Details |
-|---|---|
-| Stack | Python, Scikit-Learn, Pandas, NumPy, Flask, HTML, CSS, Bootstrap |
-| Domain | Machine Learning |
-| Model Type | Regression |
-| Focus | Car Resale Price Prediction |
-| Repository | https://lnkd.in/gkKR4pCT |
-
-Built an AI-powered car price prediction web app that predicts resale value based on company, model, year, fuel type, and kilometers driven.
-
-</details>
-
-<details>
-<summary><b>IPL Win Predictor</b></summary>
-
-| Aspect | Details |
-|---|---|
-| Stack | Python, Pandas, Scikit-Learn, Streamlit |
-| Domain | Sports Analytics |
-| Model Type | Classification |
-| Focus | IPL Match Winning Probability |
-| Repository | Add Repository Link |
-
-Developed a machine learning web app that predicts IPL team winning probability using match context and historical IPL data.
-
-</details>
-
-<details>
-<summary><b>Breast Cancer Prediction App</b></summary>
-
-| Aspect | Details |
-|---|---|
-| Stack | Python, TensorFlow, Keras, Scikit-Learn, Streamlit |
-| Domain | Healthcare AI |
-| Model Type | Neural Network |
-| Focus | Breast Cancer Diagnosis Prediction |
-| Repository | https://github.com/Karan005-kr/Breast-cancer |
-
-Created a deep learning based prediction app using healthcare data to classify breast cancer cases as benign or malignant.
-
-</details>
-
-<details>
-<summary><b>Netflix Data Analysis</b></summary>
-
-| Aspect | Details |
-|---|---|
-| Stack | Python, Pandas, NumPy, Matplotlib, Seaborn |
-| Domain | Data Analysis |
-| Focus | Exploratory Data Analysis |
-| Repository | Add Repository Link |
-
-Analyzed Netflix dataset to find insights related to content type, release trends, categories, countries, and platform growth.
-
-</details>
-
-<details>
-<summary><b>Personal Portfolio Website</b></summary>
-
-| Aspect | Details |
-|---|---|
-| Stack | HTML, CSS, JavaScript |
-| Domain | Personal Branding |
-| Focus | Portfolio Website |
-| Live | https://karan005-kr.github.io/MY_PORTFOLIO/ |
-| Repository | Add Repository Link |
-
-Created a personal portfolio website to showcase projects, skills, experience, and career journey.
-
-</details>
-
----
-
-# Experience
-
-## Data Science Intern | DecodeLabs
-
-**2026**
-
-- Built machine learning projects using Python
-- Worked on customer segmentation using clustering
-- Performed data cleaning and preprocessing
-- Created data visualizations and reports
-- Improved understanding of real-world AI workflows
-
-**Skills:** Python • Pandas • NumPy • Scikit-Learn • Machine Learning • Data Science
-
----
-
-## Data Science & Analytics Intern | InternPe
-
-**2026**
-
-- Developed predictive analytics projects
-- Built machine learning web applications
-- Worked on IPL prediction and healthcare prediction projects
-- Conducted exploratory data analysis
-- Created data visualizations and reports
-
-**Skills:** Python • Data Analysis • EDA • Machine Learning • Streamlit • TensorFlow
-
----
-
-# Achievements
-
-| Achievement | Details |
-|---|---|
-| DecodeLabs Internship | Worked on Data Science and Machine Learning projects |
-| InternPe Internship | Built real-world ML and analytics projects |
-| Portfolio Development | Created personal developer portfolio |
-| Tableau Dashboard | Built interactive dashboard for downtime analysis |
-| GitHub Projects | Published multiple Data Science and ML projects |
-
----
-
-# Certifications & Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/DecodeLabs-Data%20Science%20Internship-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/InternPe-Data%20Science%20%26%20Analytics-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Coursera-Learning-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-Dashboarding-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-</div>
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="YOUR_LEETCODE">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<a href="https://github.com/Karan005-kr?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repository-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
 </a>
 
-<a href="YOUR_GFG">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### IPL Win Predictor
+
+**Streamlit | Classification | Sports Analytics**
+
+- Predicts IPL winning probability  
+- Built with ML classification techniques  
+- Interactive Streamlit user interface  
+- Sports analytics focused project  
+
+<a href="https://github.com/Karan005-kr?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
 </a>
 
-<a href="YOUR_HACKERRANK">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</td>
+<td width="50%">
+
+### Breast Cancer Prediction App
+
+**TensorFlow | Deep Learning | Healthcare AI**
+
+- Deep Learning based healthcare prediction app  
+- TensorFlow model implementation  
+- Streamlit deployment  
+- AI project focused on medical prediction  
+
+<a href="https://github.com/Karan005-kr?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repository-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
 </a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Netflix Data Analysis
+
+**EDA | Pandas | NumPy | Matplotlib | Seaborn**
+
+- Exploratory Data Analysis on Netflix data  
+- Data cleaning and transformation  
+- Visual storytelling with charts  
+- Trend and category-based insights  
+
+<a href="https://github.com/Karan005-kr?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
+
+</td>
+<td width="50%">
+
+### Personal Portfolio Website
+
+**HTML | CSS | Portfolio Design**
+
+- Personal portfolio website  
+- Showcases projects, skills, and learning journey  
+- Clean and responsive web design  
+- Built for professional presentation  
+
+<a href="https://github.com/Karan005-kr?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20Repository-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" />
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Current Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Advanced%20Machine%20Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=A855F7" alt="Advanced ML" />
+<img src="https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning" />
+<img src="https://img.shields.io/badge/Generative%20AI-A855F7?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Data%20Analytics-000000?style=for-the-badge&logo=tableau&logoColor=A855F7" alt="Data Analytics" />
+<img src="https://img.shields.io/badge/Power%20BI-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 
 </div>
 
 ---
 
-# GitHub Analytics
+## Achievements
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/ML%20Projects-Completed-7C3AED?style=for-the-badge" alt="ML Projects" />
+
+<br><br>
+
+Completed multiple Machine Learning projects across analytics, healthcare, business, and sports domains.
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-Internships-A855F7?style=for-the-badge" alt="Internships" />
+
+<br><br>
+
+Gaining hands-on Data Science and Analytics experience through active internships.
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/GitHub-Active-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+
+<br><br>
+
+Building an active GitHub portfolio with real-world, project-based learning.
+
+</td>
+<td width="25%" align="center">
+
+<img src="https://img.shields.io/badge/AI%20Apps-Building-7C3AED?style=for-the-badge" alt="AI Apps" />
+
+<br><br>
+
+Creating practical AI applications using Machine Learning, Deep Learning, Flask, and Streamlit.
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karan005-kr&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Karan005-kr&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=000000&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Karan005-kr&theme=midnight-purple&hide_border=true&background=000000&ring=A855F7&fire=7C3AED&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karan005-kr&layout=compact&theme=midnight-purple&hide_border=true"/>
+<br><br>
 
-<br/><br/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Karan005-kr&bg_color=000000&color=FFFFFF&line=A855F7&point=7C3AED&area=true&hide_border=true" alt="Activity Graph" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Karan005-kr&theme=midnight-purple&hide_border=true"/>
+<br><br>
+
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=Karan005-kr&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-# GitHub Trophies
+## Recruiter Snapshot
 
-<div align="center">
+<table>
+<tr>
+<td width="33%">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Karan005-kr&theme=algolia&no-frame=true&margin-w=15"/>
+### What I Build
 
-</div>
+- ML prediction systems  
+- Data analysis projects  
+- Streamlit applications  
+- Flask web apps  
+- AI-powered solutions  
 
----
+</td>
+<td width="33%">
 
-# Contribution Activity
+### Core Strengths
 
-<div align="center">
+- Python for Data Science  
+- Machine Learning workflows  
+- Exploratory Data Analysis  
+- Data visualization  
+- Project-based execution  
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Karan005-kr&theme=react-dark&hide_border=true"/>
+</td>
+<td width="33%">
 
-</div>
+### Career Direction
 
----
+- Data Scientist  
+- AI & ML practitioner  
+- Analytics problem solver  
+- Deep Learning learner  
+- Generative AI explorer  
 
-# Current Focus
-
-```yaml
-Learning:
-  - Machine Learning
-  - Deep Learning
-  - SQL
-  - Data Structures & Algorithms
-  - Power BI
-  - Tableau
-
-Building:
-  - Data Science Projects
-  - Machine Learning Web Apps
-  - AI Portfolio
-  - Open Source Projects
-
-Exploring:
-  - Generative AI
-  - MLOps
-  - Cloud Computing
-  - Real World AI Applications
-
-Career Goal:
-  - Data Scientist
-  - AI/ML Engineer
-````
+</td>
+</tr>
+</table>
 
 ---
 
-# Connect With Me
+## Contact
 
 <div align="center">
-
-<a href="mailto:karanje8765@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/karan-kumar-a5684637b">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Karan005-kr">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Karan005--kr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<a href="https://karan005-kr.github.io/MY_PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-A855F7?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://github.com/Karan005-kr?tab=repositories">
+  <img src="https://img.shields.io/badge/Project%20Portfolio-Repositories-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
 </a>
+<img src="https://img.shields.io/badge/Open%20To-Data%20Science%20Opportunities-A855F7?style=for-the-badge" alt="Open To Opportunities" />
 
 </div>
 
@@ -381,11 +359,8 @@ Career Goal:
 
 <div align="center">
 
-### Data Science • Machine Learning • Artificial Intelligence
+### Building data-driven solutions with Python, Machine Learning, and AI
 
-### Turning Data Into Decisions, Models Into Solutions.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:000000,50:7C3AED,100:030014" />
 
 </div>
-```
