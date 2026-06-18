@@ -1,5 +1,14 @@
 <div align="center">
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0EA5E9,100:06B6D4&text=Karan%20Kumar&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20ML%20Student%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
+<h3 align="center">Aspiring Data Scientist | AI & ML Student | Machine Learning Enthusiast</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=950&lines=Building+Data+Science+%26+AI+Projects;Machine+Learning+%7C+Deep+Learning+%7C+Analytics;Turning+Data+Into+Actionable+Insights;Open+to+Data+Science+Opportunities" alt="Typing SVG" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,45:0EA5E9,100:06B6D4&text=Karan%20Kumar&fontColor=FFFFFF&fontSize=60&fontAlignY=36&desc=Aspiring%20Data%20Scientist%20%7C%20AI%20%26%20ML%20Student%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=950&lines=Building+Data+Science+%26+AI+Projects;Machine+Learning+%7C+Deep+Learning+%7C+Analytics;Turning+Data+Into+Actionable+Insights;Open+to+Data+Science+Opportunities" alt="Typing SVG" />
