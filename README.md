@@ -378,53 +378,15 @@ Institute:   Gateway Institute of Engineering & Technology (GIET)
 <!-- CONTRIBUTION SNAKE -->
 <!-- ══════════════════════════════════════════════════════════════════════════════ -->
 
-## 🐍 &nbsp;Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<!--
-  ⚠️ GITHUB ACTION REQUIRED FOR SNAKE ANIMATION ⚠️
-  
-  The snake animation below requires a GitHub Action to generate the SVG.
-  Create a file: .github/workflows/snake.yml with the following content:
-
-  name: Generate Snake Animation
-  on:
-    schedule:
-      - cron: "0 */12 * * *"
-    workflow_dispatch:
-  jobs:
-    build:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: Karan005-kr
-            outputs: |
-              dist/github-snake.svg
-              dist/github-snake-dark.svg?palette=github-dark
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        - uses: crazy-max/ghaction-github-pages@v3.1.0
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  After the action runs at least once, the snake images will be available.
-  Until then, this section will show a placeholder or blank space gracefully.
--->
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karan005-kr/Karan005-kr/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karan005-kr/Karan005-kr/output/github-snake.svg" />
-  <img alt="GitHub Contribution Snake — requires GitHub Action setup (see comment above)" src="https://raw.githubusercontent.com/Karan005-kr/Karan005-kr/output/github-snake-dark.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Karan005-kr/Karan005-kr/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Karan005-kr/Karan005-kr/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Karan005-kr/Karan005-kr/output/github-contribution-grid-snake.svg" width="95%" />
 </picture>
-
-<br/>
-
-<sub>💡 <i>If the snake is not visible, the GitHub Action hasn't been set up yet. See the HTML comment above for instructions.</i></sub>
 
 </div>
 
